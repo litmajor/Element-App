@@ -20,5 +20,6 @@ num-traits = "0.2.14"
 sanitize = "0.1.0"
 rand = "0.8.4"
 plotters = "0.3.5"
+yeslogic-fontconfig-sys = "3.0.0"
 [build]
 features = ["default", "diesel"]  # Enable the "diesel" feature

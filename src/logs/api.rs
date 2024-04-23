@@ -6,12 +6,12 @@ use jsonwebtoken::{decode, encode, Algorithm, DecodingKey, EncodingKey, Validati
 use serde::{Deserialize, Serialize};
 use std::env;
 use validator::Validate;
-
 use crate::{
     errors::ServiceError,
     models::{Role, User, UserProfile},
     services::{auth, roles, user_profiles},
     utils::{hash_password, verify_password},
+    models::PasswordChangeRequest,
 };
 
 #[derive(Debug, Serialize, Deserialize, Validate)]
@@ -75,6 +75,50 @@ pub async fn login_user(data: web::Json<LoginRequest>) -> impl Responder {
         Err(_) => HttpResponse::InternalServerError().body("Failed to log in"),
     }
 }
+
+#[derive(Debug, Deserialize)]
+pub struct PasswordChangeRequest {
+    pub current_password: String,
+    pub new_password: String,
+}
+
+pub async fn change_password(data: web::Json<PasswordChangeRequest>) -> impl Responder {
+    match auth::change_password(&data.current_password, &data.new_password).await {
+        Ok(_) => HttpResponse::Ok().body("Password changed successfully"),
+        Err(ServiceError::Unauthorized) => HttpResponse::Unauthorized().body("Invalid current password"),
+        Err(_) => HttpResponse::InternalServerError().body("Failed to change password"),
+    }
+}
+
+pub fn init_routes(cfg: &mut web::ServiceConfig) {
+    cfg.service(
+        web::resource("/change-password")
+            .route(web::post().to(change_password))
+    );
+}
+
+use crate::errors::ServiceError;
+use crate::utils::hash_password;
+
+pub async fn change_password(current_password: &str, new_password: &str) -> Result<(), ServiceError> {
+    // Check if the current password is correct
+    let user_id = get_user_id_from_session(); // Implement this function to get the user ID from the session
+    let user = find_user_by_id(user_id).await?;
+    let is_password_valid = verify_password(current_password, &user.hashed_password)?;
+    if !is_password_valid {
+        return Err(ServiceError::Unauthorized);
+    }
+
+    // Hash the new password
+    let hashed_new_password = hash_password(new_password)?;
+
+    // Update the user's password in the database
+    update_user_password(user_id, &hashed_new_password).await?;
+
+    Ok(())
+}
+
+
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct PasswordResetRequest {

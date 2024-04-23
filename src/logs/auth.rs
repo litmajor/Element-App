@@ -113,3 +113,24 @@ fn hash_password_with_salt(password: &[u8], salt: &[u8]) -> Result<String, Servi
 fn verify_password_with_salt(hashed_password: &str, password: &[u8], salt: &[u8]) -> Result<bool, ServiceError> {
     Ok(verify_encoded_ext(hashed_password, password, salt, &argon2::Config::default())?)
 }
+
+use crate::errors::ServiceError;
+use crate::utils::hash_password;
+
+pub async fn change_password(current_password: &str, new_password: &str) -> Result<(), ServiceError> {
+    // Check if the current password is correct
+    let user_id = get_user_id_from_session(); // Implement this function to get the user ID from the session
+    let user = find_user_by_id(user_id).await?;
+    let is_password_valid = verify_password(current_password, &user.hashed_password)?;
+    if !is_password_valid {
+        return Err(ServiceError::Unauthorized);
+    }
+
+    // Hash the new password
+    let hashed_new_password = hash_password(new_password)?;
+
+    // Update the user's password in the database
+    update_user_password(user_id, &hashed_new_password).await?;
+
+    Ok(())
+}
