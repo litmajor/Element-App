@@ -1,0 +1,10 @@
+/home/jonyach/Desktop/code_practice/Element-App/target/debug/deps/libhybrid_array-efa36213ac465dc1.rmeta: /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/lib.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/sizes.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/from_fn.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/iter.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/traits.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/../README.md
+
+/home/jonyach/Desktop/code_practice/Element-App/target/debug/deps/hybrid_array-efa36213ac465dc1.d: /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/lib.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/sizes.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/from_fn.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/iter.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/traits.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/../README.md
+
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/lib.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/sizes.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/from_fn.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/iter.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/traits.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hybrid-array-0.2.0-rc.8/src/../README.md:

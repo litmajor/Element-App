@@ -1,0 +1,12 @@
+/home/jonyach/Desktop/code_practice/Element-App/target/debug/deps/libbase64-d87d255c5d64602c.rmeta: /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/lib.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/chunked_encoder.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/display.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/tables.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/write/mod.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/write/encoder.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/encode.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/decode.rs
+
+/home/jonyach/Desktop/code_practice/Element-App/target/debug/deps/base64-d87d255c5d64602c.d: /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/lib.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/chunked_encoder.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/display.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/tables.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/write/mod.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/write/encoder.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/encode.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/decode.rs
+
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/lib.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/chunked_encoder.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/display.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/tables.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/write/mod.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/write/encoder.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/encode.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.10.1/src/decode.rs:

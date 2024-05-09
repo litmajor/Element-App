@@ -1,0 +1,7 @@
+/home/jonyach/Desktop/code_practice/Element-App/target/debug/deps/libpin_project-e8a28ca77853789e.rmeta: /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pin-project-1.1.5/src/lib.rs
+
+/home/jonyach/Desktop/code_practice/Element-App/target/debug/deps/libpin_project-e8a28ca77853789e.rlib: /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pin-project-1.1.5/src/lib.rs
+
+/home/jonyach/Desktop/code_practice/Element-App/target/debug/deps/pin_project-e8a28ca77853789e.d: /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pin-project-1.1.5/src/lib.rs
+
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pin-project-1.1.5/src/lib.rs:

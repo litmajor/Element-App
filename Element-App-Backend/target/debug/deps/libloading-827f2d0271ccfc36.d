@@ -1,0 +1,11 @@
+/home/jonyach/Desktop/code_practice/Element-App/target/debug/deps/liblibloading-827f2d0271ccfc36.rmeta: /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/lib.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/os/mod.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/changelog.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/util.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/os/unix/mod.rs
+
+/home/jonyach/Desktop/code_practice/Element-App/target/debug/deps/liblibloading-827f2d0271ccfc36.rlib: /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/lib.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/os/mod.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/changelog.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/util.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/os/unix/mod.rs
+
+/home/jonyach/Desktop/code_practice/Element-App/target/debug/deps/libloading-827f2d0271ccfc36.d: /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/lib.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/os/mod.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/changelog.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/util.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/os/unix/mod.rs
+
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/lib.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/os/mod.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/changelog.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/util.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.5.2/src/os/unix/mod.rs:

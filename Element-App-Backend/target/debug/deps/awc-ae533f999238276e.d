@@ -1,0 +1,14 @@
+/home/jonyach/Desktop/code_practice/Element-App/target/debug/deps/libawc-ae533f999238276e.rmeta: /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/lib.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/builder.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/connect.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/error.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/frozen.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/request.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/response.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/sender.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/test.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/ws.rs
+
+/home/jonyach/Desktop/code_practice/Element-App/target/debug/deps/awc-ae533f999238276e.d: /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/lib.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/builder.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/connect.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/error.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/frozen.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/request.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/response.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/sender.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/test.rs /home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/ws.rs
+
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/lib.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/builder.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/connect.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/error.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/frozen.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/request.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/response.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/sender.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/test.rs:
+/home/jonyach/.cargo/registry/src/index.crates.io-6f17d22bba15001f/awc-2.0.3/src/ws.rs:
