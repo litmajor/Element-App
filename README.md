@@ -2,7 +2,7 @@
 
 **Background Context**
 
-An application for connectiong freelancers to employers with secure payment methods and more security features.
+An application for connecting freelancers to employers with secure payment methods and more security features.
 
 ## Technologies & Tools:
 
