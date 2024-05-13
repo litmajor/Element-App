@@ -10,7 +10,7 @@ An application for connectiong freelancers to employers with secure payment meth
 ![GitHub](https://img.shields.io/badge/≡-GitHub-181717?logo=GitHub&style=flat-square&labelColor=282828)
 ![Node.js](https://img.shields.io/badge/≡-Node.js-339933?logo=node.js&style=flat-square&labelColor=282828)
 ![React](https://img.shields.io/badge/≡-React-61DAFB?logo=react&style=flat-square&labelColor=282828)
-![Rust](https://img.shields.io/badge/≡-Rust-363636?logo=solidity&style=flat-square&labelColor=282828)
+![Rust](https://img.shields.io/badge/≡-Rust-363636?logo=rust&style=flat-square&labelColor=282828)
 
 
 
